@@ -141,7 +141,7 @@ Show me my roadmap progress
 │   ├── user_data.json              # Your profile and preferences (created from example)
 │   └── notes/                      # Notepad storage directory (auto-generated)
 ├── src/                           # MCP server implementations
-│   ├── mcp_productivity_assistant.py # Main system prompt
+│   ├── mcp_productivity_assistant.py # Main system
 │   ├── mcp_prompt.py                 # Persona management
 │   ├── mcp_projects_status.py        # Project tracking
 │   ├── mcp_roadmap.py               # Roadmap management
@@ -163,7 +163,7 @@ The system is highly customizable:
 1. **Personas** - Edit `belphie.md` or add new communication styles in `mcp_prompt.py`
 2. **Roadmaps** - Customize `roadmap.json` for your learning subject
 3. **Project Categories** - Modify project phases in `projects_status.json`
-4. **System Behavior** - Adjust prompts in `mcp_productivity_assistant.py`
+4. **System Behavior** - Adjust prompts in `system.md`
 5. **User Profile** - Update your preferences and data in `user_data.json`
 
 ## Support
