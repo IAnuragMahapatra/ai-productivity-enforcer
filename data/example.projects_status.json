@@ -1,0 +1,32 @@
+{
+    "name": "Example Project",
+    "summary": {},
+    "status": [
+        {
+            "title": "Completed",
+            "tasks": []
+        },
+        {
+            "title": "Just Documentation / Readme",
+            "tasks": []
+        },
+        {
+            "title": "Finishing Touches",
+            "tasks": []
+        },
+        {
+            "title": "Need Work",
+            "tasks": []
+        },
+        {
+            "title": "Just Started",
+            "tasks": []
+        },
+        {
+            "title": "On Queue",
+            "tasks": []
+        }
+    ],
+    "current_focus": [
+    ]
+}

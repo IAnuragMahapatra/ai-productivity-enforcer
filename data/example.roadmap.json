@@ -1,0 +1,67 @@
+{
+  "phases": [
+    {
+      "id": 1,
+      "title": "<PHASE_TITLE_1>",
+      "days": [1, 10]
+    },
+    {
+      "id": 2,
+      "title": "<PHASE_TITLE_2>",
+      "days": [11, 22]
+    },
+    {
+      "id": 3,
+      "title": "<PHASE_TITLE_3>",
+      "days": [23, 28]
+    },
+    {
+      "id": 4,
+      "title": "<PHASE_TITLE_4>",
+      "days": [29, 34]
+    },
+    {
+      "id": 5,
+      "title": "<PHASE_TITLE_5>",
+      "days": [35, 45]
+    },
+    {
+      "id": 6,
+      "title": "<PHASE_TITLE_6>",
+      "days": [46, 60]
+    },
+    {
+      "id": 7,
+      "title": "<PHASE_TITLE_7>",
+      "days": [61, 73]
+    },
+    {
+      "id": 8,
+      "title": "<PHASE_TITLE_8>",
+      "days": [74, 80]
+    },
+    {
+      "id": 9,
+      "title": "<PHASE_TITLE_9>",
+      "days": [81, 110]
+    }
+  ],
+  "daily_tasks": {
+    "1": {
+      "phase_id": 1,
+      "tasks": ["<TASK_1_1>", "<TASK_1_2>", "<TASK_1_3>"]
+    },
+    "2": {
+      "phase_id": 1,
+      "tasks": ["<TASK_2_1>", "<TASK_2_2>", "<TASK_2_3>"]
+    },
+    "3": {
+      "phase_id": 1,
+      "tasks": ["<TASK_3_1>", "<TASK_3_2>", "<TASK_3_3>"]
+    },
+    "...": {
+      "phase_id": "<PHASE_ID>",
+      "tasks": ["<TASK_N_1>", "<TASK_N_2>", "<TASK_N_3>"]
+    }
+  }
+}

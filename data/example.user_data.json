@@ -1,0 +1,116 @@
+{
+    "persona_summary": {
+        "elevator_pitch": "<Your short professional summary or elevator pitch>",
+        "keywords": [
+            "<Keyword1>",
+            "<Keyword2>",
+            "<Keyword3>"
+        ]
+    },
+    "basic_info": {
+        "name": "<Your Name>",
+        "email": "<your.email@example.com>",
+        "phone": "<Your Phone Number>",
+        "dob": "YYYY-MM-DD",
+        "age": <Your Age>,
+        "location": "<Your Location>",
+        "linkedin": "<Your LinkedIn URL>",
+        "github": "<Your GitHub URL>",
+        "hobbies": "<Your Hobbies>"
+    },
+    "education": {
+        "college": "<Your College/University>",
+        "degree": "<Your Degree>",
+        "cgpa": <Your CGPA>,
+        "status": "<Current Status/Semester>"
+    },
+    "skills": {
+        "languages": [
+            {
+                "id": 101,
+                "name": "<Language1>",
+                "level": "<proficient/intermediate/basic>"
+            }
+            // Add more languages as needed
+        ],
+        "frameworks_libraries": [
+            {
+                "id": 201,
+                "name": "<Framework/Library1>",
+                "level": "<proficient/intermediate/basic>"
+            }
+            // Add more frameworks/libraries as needed
+        ],
+        "mlops_devops": [
+            {
+                "id": 301,
+                "name": "<Tool1>",
+                "level": "<proficient/intermediate/basic>"
+            }
+            // Add more tools as needed
+        ]
+    },
+    "leadership": [
+        {
+            "role": "<Role>",
+            "organization": "<Organization>",
+            "duration": "<Duration>",
+            "description": "<Description>"
+        }
+        // Add more leadership experiences as needed
+    ],
+    "work_style": {
+        "strengths": [
+            "<Strength1>",
+            "<Strength2>"
+            // Add more strengths as needed
+        ],
+        "challenges": [
+            "<Challenge1>",
+            "<Challenge2>"
+            // Add more challenges as needed
+        ],
+        "learning_preference": "<Your Learning Preference>",
+        "neurodivergent_considerations": {
+            "adhd": "<ADHD Considerations>",
+            "dyslexia": "<Dyslexia Considerations>",
+            "ocd": "<OCD Considerations>"
+        },
+        "motivation_patterns": {
+            "self_worth_connection": "<Self-worth Connection>",
+            "fear_of_failure": "<Fear of Failure>",
+            "comfort_zone": "<Comfort Zone>"
+        },
+        "work_environment_needs": [
+            "<Need1>",
+            "<Need2>"
+            // Add more needs as needed
+        ]
+    },
+    "projects": "<Instructions or link to your project tracker tool>",
+    "ideal_roles": [
+        "<Role1>",
+        "<Role2>"
+        // Add more roles as needed
+    ],
+    "experience": {
+        "<Position Title>": {
+            "organization": "<Organization>",
+            "date": "<Start Date> - <End Date>",
+            "description": "<Description of your experience>"
+        }
+        // Add more experiences as needed
+    },
+    "certification": {
+        "<Certification Name>": {
+            "title": "<Certification Title>",
+            "organization": "<Organization>",
+            "date": "<Date>",
+            "certification_id": "<Certification ID>",
+            "signatory": "<Signatory>",
+            "description": "<Description>",
+            "type": "<Type>"
+        }
+        // Add more certifications as needed
+    }
+}
